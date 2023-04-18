@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geordan Sanchez</h1>
-<h3 align="center">a Java Backend Developer, currently working on improve all web3 Tech</h3>
+<h3 align="center">a Java Backend Developer, currently working on improve on React Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geordanex&label=Profile%20views&color=0e75b6&style=flat" alt="geordanex" /> </p>
 
@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [profile-nft](https://github.com/geordanex/profile-nft)
 
-- 🌱 I’m currently learning **Solidity, Solana, Rust**
+- 🌱 I’m currently learning **React Native, Spring 6, Rust**
 
-- 💬 Ask me about **blockchain tech**
+- 💬 Ask me about **backend tech**
 
 - 📫 How to reach me **geordan62@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/geordan-sanchez/](https://www.linkedin.com/in/geordan-sanchez/)
 
-- ⚡ Fun fact **Now focussing in Web3**
+- ⚡ Fun fact **Now focussing in React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
